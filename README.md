@@ -31,7 +31,8 @@ Dataset Link : https://www.kaggle.com/stackoverflow/so-survey-2017
 - medium.docx : Link of my medium blog post .
 
 ## Result :
-The insights of the code can be found in the blog - https://medium.com/@swatisinghchanchaluni/developers-vs-non-developers-which-profession-is-better-8a18aeb4d65a
+- The insights of the code can be found in the blog - https://medium.com/@swatisinghchanchaluni/developers-vs-non-developers-which-profession-is-better-8a18aeb4d65a
+- The Link of my Git-Hub Repository for the sme - https://github.com/Swatichanchal/Stack-Overflow-Developer-Survey-2017 
 
 ## Licensing, Authors and Acknowledgements :
 The licensing for Kaggle data can be found here- https://www.kaggle.com/stackoverflow/so-survey-2017/data.
